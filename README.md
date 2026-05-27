@@ -20,3 +20,6 @@ CDC WONDER Linked Birth/Infant Death Files
 - Statistical analysis in SAS
 - Data visualizations in Tableau
 - Publication-style figures
+
+Note: This project uses local machine file paths (Windows-specific directories).
+Users should update paths based on their system before running the code.
