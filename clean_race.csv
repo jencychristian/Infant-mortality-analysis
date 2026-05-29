@@ -1,0 +1,137 @@
+race_raw,year,deaths,births,rate,race_cat
+Mexican,2007,3914,722055,5.42,Hispanic
+Mexican,2008,3822,684883,5.58,Hispanic
+Mexican,2009,3302,645297,5.12,Hispanic
+Mexican,2010,3061,598317,5.12,Hispanic
+Mexican,2011,2830,566699,4.99,Hispanic
+Mexican,2012,2789,555823,5.02,Hispanic
+Mexican,2013,2672,545202,4.9,Hispanic
+Mexican,2014,2646,545977,4.85,Hispanic
+Mexican,2015,2658,546169,4.87,Hispanic
+Mexican,2016,2657,535993,4.96,Hispanic
+Mexican,2017,2588,512126,5.05,Hispanic
+Mexican,2018,2426,495831,4.89,Hispanic
+Mexican,2019,2462,496716,4.96,Hispanic
+Mexican,2020,2264,480531,4.71,Hispanic
+Mexican,2021,2380,485127,4.91,Hispanic
+Mexican,2022,2442,510194,4.79,Hispanic
+Mexican,2023,2601,508127,5.12,Hispanic
+Puerto Rican,2007,528,68488,7.71,Hispanic
+Puerto Rican,2008,503,69015,7.29,Hispanic
+Puerto Rican,2009,492,68486,7.18,Hispanic
+Puerto Rican,2010,471,66368,7.1,Hispanic
+Puerto Rican,2011,526,67018,7.85,Hispanic
+Puerto Rican,2012,461,67182,6.86,Hispanic
+Puerto Rican,2013,405,68302,5.93,Hispanic
+Puerto Rican,2014,506,69879,7.24,Hispanic
+Puerto Rican,2015,456,70987,6.42,Hispanic
+Puerto Rican,2016,432,70517,6.13,Hispanic
+Puerto Rican,2017,459,70813,6.48,Hispanic
+Puerto Rican,2018,402,71614,5.61,Hispanic
+Puerto Rican,2019,438,70950,6.17,Hispanic
+Puerto Rican,2020,437,69763,6.26,Hispanic
+Puerto Rican,2021,428,70729,6.05,Hispanic
+Puerto Rican,2022,438,69266,6.32,Hispanic
+Puerto Rican,2023,426,66203,6.43,Hispanic
+Cuban,2007,88,16981,5.18,Hispanic
+Cuban,2008,82,16718,4.9,Hispanic
+Cuban,2009,96,16641,5.77,Hispanic
+Cuban,2010,64,16882,3.79,Hispanic
+Cuban,2011,74,17131,4.32,Hispanic
+Cuban,2012,87,17396,5,Hispanic
+Cuban,2013,57,18854,3.02,Hispanic
+Cuban,2014,79,20163,3.92,Hispanic
+Cuban,2015,89,21107,4.22,Hispanic
+Cuban,2016,85,22573,3.77,Hispanic
+Cuban,2017,93,23362,3.98,Hispanic
+Cuban,2018,90,23471,3.83,Hispanic
+Cuban,2019,98,23668,4.14,Hispanic
+Cuban,2020,98,23188,4.23,Hispanic
+Cuban,2021,87,24437,3.56,Hispanic
+Cuban,2022,104,26390,3.94,Hispanic
+Cuban,2023,113,30001,3.77,Hispanic
+Central or South American,2007,777,169851,4.57,Hispanic
+Central or South American,2008,740,155578,4.76,Hispanic
+Central or South American,2009,665,148647,4.47,Hispanic
+Central or South American,2010,632,142692,4.43,Hispanic
+Central or South American,2011,593,136221,4.35,Hispanic
+Central or South American,2012,546,131794,4.14,Hispanic
+Central or South American,2013,565,131305,4.3,Hispanic
+Central or South American,2014,581,136656,4.25,Hispanic
+Central or South American,2015,573,142249,4.03,Hispanic
+Central or South American,2016,626,143983,4.35,Hispanic
+Central or South American,2017,653,145614,4.48,Hispanic
+Central or South American,2018,592,147430,4.02,Hispanic
+Central or South American,2019,749,165229,4.53,Hispanic
+Central or South American,2020,659,169811,3.88,Hispanic
+Central or South American,2021,748,178067,4.2,Hispanic
+Central or South American,2022,907,207843,4.36,Hispanic
+Central or South American,2023,958,208618,4.59,Hispanic
+Other and Unknown Hispanic,2007,548,85404,6.42,NH Other
+Other and Unknown Hispanic,2008,674,115045,5.86,NH Other
+Other and Unknown Hispanic,2009,730,120477,6.06,NH Other
+Other and Unknown Hispanic,2010,736,120921,6.09,NH Other
+Other and Unknown Hispanic,2011,709,131060,5.41,NH Other
+Other and Unknown Hispanic,2012,758,135482,5.59,NH Other
+Other and Unknown Hispanic,2013,808,137370,5.88,NH Other
+Other and Unknown Hispanic,2014,767,141390,5.42,NH Other
+Other and Unknown Hispanic,2015,807,143536,5.62,NH Other
+Other and Unknown Hispanic,2016,755,145381,5.19,NH Other
+Other and Unknown Hispanic,2017,790,146849,5.38,NH Other
+Other and Unknown Hispanic,2018,793,147864,5.36,NH Other
+Other and Unknown Hispanic,2019,715,129904,5.5,NH Other
+Other and Unknown Hispanic,2020,605,123420,4.9,NH Other
+Other and Unknown Hispanic,2021,603,127556,4.73,NH Other
+Other and Unknown Hispanic,2022,690,123728,5.58,NH Other
+Other and Unknown Hispanic,2023,652,132251,4.93,NH Other
+Non-Hispanic White,2007,13005,2310333,5.63,NH White
+Non-Hispanic White,2008,12509,2267817,5.52,NH White
+Non-Hispanic White,2009,11785,2212552,5.33,NH White
+Non-Hispanic White,2010,11192,2162406,5.18,NH White
+Non-Hispanic White,2011,10886,2146566,5.07,NH White
+Non-Hispanic White,2012,10759,2134044,5.04,NH White
+Non-Hispanic White,2013,10766,2129196,5.06,NH White
+Non-Hispanic White,2014,10515,2149302,4.89,NH White
+Non-Hispanic White,2015,10444,2130279,4.9,NH White
+Non-Hispanic White,2016,10204,2094054,4.87,NH White
+Non-Hispanic White,2017,9520,2030493,4.69,NH White
+Non-Hispanic White,2018,9334,1994985,4.68,NH White
+Non-Hispanic White,2019,8825,1954153,4.52,NH White
+Non-Hispanic White,2020,0,0,0,NH White
+Non-Hispanic White,2021,0,0,0,NH White
+Non-Hispanic White,2022,0,0,0,NH White
+Non-Hispanic White,2023,0,0,0,NH White
+Non-Hispanic Black,2007,8351,627191,13.31,NH Black
+Non-Hispanic Black,2008,7894,623031,12.67,NH Black
+Non-Hispanic Black,2009,7560,609584,12.4,NH Black
+Non-Hispanic Black,2010,6758,589808,11.46,NH Black
+Non-Hispanic Black,2011,6670,582345,11.45,NH Black
+Non-Hispanic Black,2012,6528,583489,11.19,NH Black
+Non-Hispanic Black,2013,6488,583834,11.11,NH Black
+Non-Hispanic Black,2014,6435,588891,10.93,NH Black
+Non-Hispanic Black,2015,6624,589047,11.25,NH Black
+Non-Hispanic Black,2016,6545,583786,11.21,NH Black
+Non-Hispanic Black,2017,6390,587357,10.88,NH Black
+Non-Hispanic Black,2018,6152,579174,10.62,NH Black
+Non-Hispanic Black,2019,6035,576685,10.46,NH Black
+Non-Hispanic Black,2020,0,0,0,NH Black
+Non-Hispanic Black,2021,0,0,0,NH Black
+Non-Hispanic Black,2022,0,0,0,NH Black
+Non-Hispanic Black,2023,0,0,0,NH Black
+Non-Hispanic other races,2007,1516,284936,5.32,NH Other
+Non-Hispanic other races,2008,1452,282811,5.13,NH Other
+Non-Hispanic other races,2009,1397,279194,5,NH Other
+Non-Hispanic other races,2010,1324,274400,4.83,NH Other
+Non-Hispanic other races,2011,1338,279289,4.79,NH Other
+Non-Hispanic other races,2012,1363,296781,4.59,NH Other
+Non-Hispanic other races,2013,1280,290526,4.41,NH Other
+Non-Hispanic other races,2014,1273,305326,4.17,NH Other
+Non-Hispanic other races,2015,1401,302673,4.63,NH Other
+Non-Hispanic other races,2016,1380,313296,4.4,NH Other
+Non-Hispanic other races,2017,1402,306378,4.58,NH Other
+Non-Hispanic other races,2018,1295,297502,4.35,NH Other
+Non-Hispanic other races,2019,1187,294448,4.03,NH Other
+Non-Hispanic other races,2020,15142,2712988,5.58,NH Other
+Non-Hispanic other races,2021,15296,2741995,5.58,NH Other
+Non-Hispanic other races,2022,15568,2695396,5.78,NH Other
+Non-Hispanic other races,2023,14994,2617957,5.73,NH Other
