@@ -5,7 +5,6 @@ This project analyzes trends in infant mortality in the United States using CDC 
 
 ## Tools Used
 - SAS
-- Tableau
 - Excel
 
 ## Objectives
@@ -18,7 +17,6 @@ CDC WONDER Linked Birth/Infant Death Files
 
 ## Outputs
 - Statistical analysis in SAS
-- Data visualizations in Tableau
 - Publication-style figures
 
 Note: This project uses local machine file paths (Windows-specific directories).
